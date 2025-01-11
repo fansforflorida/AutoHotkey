@@ -2,4 +2,14 @@
 
 If your keyboard does not support QMK or VIA, you can use this AutoHotkey script to enable arrow and navigation keys.
 
-Hold Caps Lock and use IJKL for arrows, H and N for PgUp and PgDn, and U and O for Home and End. Double tap Caps Lock for Caps Lock.
+Hold Caps Lock and use IJKL for arrows, H and N for PgUp and PgDn, and U and O for Home and End.
+
+Double tap Caps Lock for Caps Lock.
+
+![Image](layout.png)
+
+## How to Use
+
+* Install AutoHotkey
+* `git clone https://github.com/fansforflorida/AutoHotkey.git`
+* Run `IJKL arrows.ahk`
